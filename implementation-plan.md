@@ -35,3 +35,12 @@
 ## Useful reference links
 - [Cytoscape automation Python notebooks](https://github.com/cytoscape/cytoscape-automation/wiki#python-notebooks)
 - [Cytoscape Rmd Notebooks](https://cytoscape.org/cytoscape-automation/for-scripters/R/notebooks/)
+
+# Automation of execution testing and HTML deployment for every notebook update
+- [ ] Writing .travis.yml for Jupyter Notebook and R Markdown
+- [ ] Adding notebook test status badge
+- [ ] HTML deployment from TravisCI to surge.sh
+
+## Useful reference links
+- [GUI and Headless Browser Testing - Travis CI](https://docs.travis-ci.com/user/gui-and-headless-browsers/)
+- [Surge.sh Deployment - Travis CI](https://docs.travis-ci.com/user/deployment/surge/)
